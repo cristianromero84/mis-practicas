@@ -1,2 +1,2 @@
 # mis-practicas
-Estoy aprendiendo a utilizar GitHub con datos ficticios
+Estoy aprendiendo a utilizar GitHub con datos ficticios 
